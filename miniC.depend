@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1732785079 source:c:\users\famille debbech\desktop\minic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	"utilitaire.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	"utilitaire.h"
+
+1732784762 c:\users\famille debbech\desktop\minic\utilitaire.h
+
